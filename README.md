@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a first-year master's student at Graduate School of Engineering Science Osaka University.
+I'm currently researching about deep generative models such as Diffusion Models.
+
 <!--
 **hassytr/hassytr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
