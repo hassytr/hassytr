@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm a first-year master's student at Graduate School of Engineering Science Osaka University.
+- I'm a second-year master's student at Graduate School of Engineering Science Osaka University.
 - I'm currently researching about deep generative models such as Diffusion Models.
 
 <!--
