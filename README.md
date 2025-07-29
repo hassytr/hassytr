@@ -2,6 +2,7 @@
 
 - I'm a second-year master's student at Graduate School of Engineering Science Osaka University.
 - I'm currently researching about deep generative models such as Diffusion Models.
+- I am also participating in an internship at a healthcare company, where I am involved in building a machine learning system using capillary images and developing APIs.
 
 <!--
 **hassytr/hassytr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
